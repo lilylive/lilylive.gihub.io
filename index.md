@@ -1,4 +1,4 @@
-<div class="profile" style="text-align:center,">
+<div class="profile" style="text-align:center;">
 ![プロフィール写真](animal_dance.png)
 </div>
 #  About 
@@ -19,6 +19,6 @@
 
 #好きな動画
 chelmico「Easy Breezy」【Official Music Video】
-<div class="youtube" style="text-align:center,">
+<div class="youtube" style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/76sNmqMzUuI?start=75" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

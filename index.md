@@ -12,7 +12,7 @@
 #作ったもの
 
 
-<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="400" height="300"　style="position: center;"　></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="400" height="300"　style="text-align: center";"　></iframe>
 
 
 #好きな動画

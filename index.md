@@ -13,7 +13,7 @@
 # 作ったもの
 
 <div class="openhtml" style="text-align:center;" >
-<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="560" height="315"></iframe>
   </div>
 
 

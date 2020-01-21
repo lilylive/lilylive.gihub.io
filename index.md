@@ -1,6 +1,6 @@
-<div class="profile" style="align:center;">
+<div class="profile" style="text-align:center;">
 <img src="animal_dance.png" title="プロフィール写真">
-</div>
+</div>　　
 #  About 
 空前絶後の青魚
 令和中にニコニコ動画再現プログラムをデプロイしたい。
@@ -17,8 +17,8 @@
   </div>
 
 
-#　好きな動画
+# 好きな動画
 chelmico「Easy Breezy」【Official Music Video】
-<div class="youtube" style="align:center;">
+<div class="youtube" style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/76sNmqMzUuI?start=75" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -27,4 +27,4 @@ chelmico「Easy Breezy」【Official Music Video】
 
 # twitter
 
-<a class="twitter-timeline" data-lang="ja" data-width="400" data-height="600"　text-align="center" href="https://twitter.com/A3ac4IgU95rpCof?ref_src=twsrc%5Etfw">Tweets by A3ac4IgU95rpCof</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="ja" data-width="400" data-height="600" style="text-align:center;" href="https://twitter.com/A3ac4IgU95rpCof?ref_src=twsrc%5Etfw">Tweets by A3ac4IgU95rpCof</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

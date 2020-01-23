@@ -15,14 +15,14 @@
 # 作ったもの
 
 <div class="openhtml" style="text-align:center;" >
-<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="560" height="315"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825207/embed/" width="400" height="225"></iframe>
   </div>
 
 
 # 好きな動画
 chelmico「Easy Breezy」【Official Music Video】
 <div class="youtube" style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/76sNmqMzUuI?start=75" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/76sNmqMzUuI?start=75" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
